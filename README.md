@@ -1,5 +1,4 @@
 # AMXProductsCatalog - English
-
 This project is an API for managing products, inventory, orders, and users.
 
 ## Product
